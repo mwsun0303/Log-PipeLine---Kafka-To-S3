@@ -1,4 +1,4 @@
-# Log PipeLine - Log To Kafka
+# Log PipeLine - Kafka To S3
 
 ## 프로젝트 개요
 
