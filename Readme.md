@@ -19,7 +19,7 @@ S3 + Athena 구성 필요
 | 구성 요소 | 버전 |
 |------------|-------|
 | Python     | 3.10  |
-| OS Base    | Debian slim |
+| OS Base    | Pyyhon Alpine slim |
 | Docker     | 최신 (23.x 이상 권장) |
 | Kafka      | 3.8 |
 | 앱 버전    | v1.0.0 |
